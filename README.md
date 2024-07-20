@@ -1,3 +1,6 @@
-Este repositório destina-se ao aprendizado do curso Full-Stack.
+# Curso SENAI
+## Full-stack
+## Objetivo
 
-Arquivo editado.
+👁️ Este repositório destina-se ao aprendizado do curso Full-Stack.
+
